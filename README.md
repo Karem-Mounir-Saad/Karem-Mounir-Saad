@@ -34,7 +34,6 @@ Lately, I have been focusing on frameworks such as Flutter and Laravel to elevat
 <h3 align="left">let's get in touch :</h3>
 <p align="left">
 <a href="https://linkedin.com/in/karem-saad-881081225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karem saad" height="30" width="40" /></a>
-<a href="https://fb.com/banel.reshl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="karem sd" height="30" width="40" /></a>
 <a href="https://instagram.com/karem.sd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karem.sd" height="30" width="40" /></a>
 </p>
 <h3 align="left">My Resume : <a href="https://beige-meggy-67.tiiny.site" target="blank"><img align="center" src="cv1.gif" alt="karem saad" height="50" width="50" /></a></h3>
@@ -49,8 +48,8 @@ Lately, I have been focusing on frameworks such as Flutter and Laravel to elevat
 
 <hr>
 <div style="display: flex;">
-    <p style="margin-right: 5px;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karemsd&show_icons=true&locale=en&layout=compact&theme=radical" alt="karemsd" /></p>
-    <p style="margin-left: 5px;"><img align="center" src="https://github-readme-stats.vercel.app/api?username=karemsd&show_icons=true&locale=en&theme=radical" alt="karemsd" /></p>
+    <p style="margin-right: 5px;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Karem-Mounir-Saad&show_icons=true&locale=en&layout=compact&theme=radical" alt="karemsd" /></p>
+    <p style="margin-left: 5px;"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Karem-Mounir-Saad&show_icons=true&locale=en&theme=radical" alt="karemsd" /></p>
 </div>
 
 
